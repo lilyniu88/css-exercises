@@ -1,0 +1,19 @@
+.one {
+    background-color: rgb(243, 96, 120);
+    font-family: "Verdaba", "DejaVu Sans", sans-serif;
+}
+
+#idone {
+    color: blue;
+    font-size: 36px;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#idtwo {
+    background-color: hsl(120, 77%, 81%);
+    font-size: 24px;
+    font-weight: bold;
+}
